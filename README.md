@@ -2,7 +2,7 @@
 Download your desired app with direct link.
 
 # Notice
-Do not modify this website, if you want more information, read [copyright.txt](https://github.com/OnePC-Go/OnePC-Go/copyright.txt) file.
+Do not modify this website, if you want more information, read [copyright.txt](https://github.com/OnePC-Go/OnePC-Go/blob/main/copyright.txt) file.
 
 # Support
 - Subscribe on [YouTube](https://www.youtube.com/channel/UC_2MZKfKMu-HcvzyGFl_Dkw).
